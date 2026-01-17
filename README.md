@@ -3,7 +3,7 @@
   # 🚀 Hi there, I'm Aljun Cursiga! 
   ### 🎨 The Creative Developer 
 
-  <img src="https://media.giphy.com/media/26tn33aiU1iGPq82k/giphy.gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5ZSZjdD1n/L1R1TVThqceK6M8jKq/giphy.gif" width="100%" />
 
   ---
 
