@@ -43,3 +43,4 @@ I also build with web, mobile, database, and machine learning tools. The common 
 | Project | Stack | What it shows |
 | --- | --- | --- |
 | **Database Monster Cert Prep** | Next.js, TypeScript, Python, Flask, SQL | Full practice system with public site, CLI, dashboard, scoring flow, and SQL review content. |
+| **SpamGuard** | Python, Flask, scikit-learn, Naive Bayes | Text preprocessing, model training, evaluation, and a Flask interface for SMS/forum spam detection. |
