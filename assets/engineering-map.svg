@@ -1,0 +1,21 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering map for Aljun Cursiga</title>
+  <desc id="desc">A dark dashboard-style map showing Aljun's path from Java practice to APIs, data, machine learning, and useful software.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131E"/>
+      <stop offset="0.55" stop-color="#082532"/>
+      <stop offset="1" stop-color="#0A2119"/>
+    </linearGradient>
+    <linearGradient id="track" x1="130" y1="252" x2="1070" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#25E0C5"/>
+      <stop offset="0.5" stop-color="#34B8FF"/>
+      <stop offset="1" stop-color="#F5A524"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="430" rx="26" fill="url(#panel)"/>
+  <rect x="42" y="42" width="1116" height="346" rx="18" stroke="#234B60"/>
+  <text x="74" y="88" fill="#25E0C5" font-family="Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">
+    ENGINEERING MAP / LIVE FOCUS
+  </text>
+</svg>
