@@ -33,4 +33,14 @@
     <rect class="spark" x="384" width="16" height="16" rx="4" fill="#F5A524"/>
     <rect class="spark" x="504" width="16" height="16" rx="4" fill="#25E0C5"/>
   </g>
+  <g transform="translate(58 188)">
+    <rect width="600" height="14" rx="7" fill="#12202D"/>
+    <rect width="180" height="14" rx="7" fill="#25E0C5" opacity="0.72"/>
+    <rect x="180" width="170" height="14" fill="#34B8FF" opacity="0.72"/>
+    <rect x="350" width="150" height="14" fill="#F5A524" opacity="0.8"/>
+    <rect x="500" width="100" height="14" rx="7" fill="#25E0C5"/>
+  </g>
+  <text x="58" y="226" fill="#8FB7C8" font-family="Consolas, monospace" font-size="14">
+    practice -> test -> document -> improve
+  </text>
 </svg>
