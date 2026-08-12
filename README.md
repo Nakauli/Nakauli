@@ -49,3 +49,13 @@ I also build with web, mobile, database, and machine learning tools. The common 
 | **BuhayLink** | Flutter, Dart, Firebase, Provider | Mobile app flows for account creation, job posting, browsing, and applications. |
 | **Hontoria Printing Website** | PHP, JavaScript, SQL, MVC-style structure | Business pages with responsive layout, form handling, database interaction, and CSRF protection basics. |
 | **COPS Interpol Website** | React, Vite, TypeScript, Mock API | Responsive organization site with reusable UI components, structured sections, and mock API/data flows. |
+
+## Toolbox
+
+**Core languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
