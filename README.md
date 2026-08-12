@@ -29,3 +29,11 @@ I also build with web, mobile, database, and machine learning tools. The common 
 | Back-end foundations | REST API concepts, validation, cookies, sessions, JWT basics, protected routes |
 | Data layer | SQL, MySQL/MariaDB, PostgreSQL basics, Supabase basics, queries and schemas |
 | Applied ML | Preprocessing, classification, model evaluation, and practical ML prototypes |
+
+## Practice signal
+
+<div align="center">
+
+[![Codewars badge](https://www.codewars.com/users/aljun/badges/large)](https://www.codewars.com/users/aljun)
+
+</div>
