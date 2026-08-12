@@ -43,4 +43,9 @@
   <text x="58" y="226" fill="#8FB7C8" font-family="Consolas, monospace" font-size="14">
     practice -> test -> document -> improve
   </text>
+  <g transform="translate(820 128)" font-family="Consolas, monospace" font-size="15" font-weight="700">
+    <rect width="290" height="76" rx="16" fill="#0A1A26" stroke="#254D61"/>
+    <text x="26" y="34" fill="#DCEFFF">current loop</text>
+    <text x="26" y="58" fill="#25E0C5">Java reps + API builds</text>
+  </g>
 </svg>
