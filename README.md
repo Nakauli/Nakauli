@@ -20,3 +20,12 @@ I am a Computer Science student from the Philippines focused on becoming a softw
 I also build with web, mobile, database, and machine learning tools. The common thread is simple: I like turning real workflows into software that people can actually use, then improving the implementation until the behavior is understandable and reliable.
 
 ![Engineering map](./assets/engineering-map.svg)
+
+## Current direction
+
+| Track | What I am sharpening |
+| --- | --- |
+| Java fundamentals | OOP, data structures, algorithms, problem solving, clean console and app logic |
+| Back-end foundations | REST API concepts, validation, cookies, sessions, JWT basics, protected routes |
+| Data layer | SQL, MySQL/MariaDB, PostgreSQL basics, Supabase basics, queries and schemas |
+| Applied ML | Preprocessing, classification, model evaluation, and practical ML prototypes |
