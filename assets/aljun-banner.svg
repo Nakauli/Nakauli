@@ -38,6 +38,14 @@
   <text x="90" y="198" fill="#B7D7E8" font-family="Consolas, monospace" font-size="20" font-weight="600">
     software engineering | java | apis | machine learning
   </text>
+  <g transform="translate(90 252)" font-family="Consolas, monospace" font-size="13" font-weight="700">
+    <rect width="118" height="30" rx="8" fill="#0D3A46" stroke="#25E0C5" opacity="0.96"/>
+    <text x="18" y="20" fill="#D6FFF8">JAVA DAILY</text>
+    <rect x="132" width="108" height="30" rx="8" fill="#123044" stroke="#34B8FF" opacity="0.96"/>
+    <text x="151" y="20" fill="#DCEFFF">REST APIs</text>
+    <rect x="254" width="148" height="30" rx="8" fill="#241D10" stroke="#F5A524" opacity="0.96"/>
+    <text x="273" y="20" fill="#FFE9B8">ML PROJECTS</text>
+  </g>
   <g transform="translate(830 72)" stroke-linecap="round" stroke-linejoin="round">
     <path d="M130 28V88L188 142V218" stroke="#F5A524" stroke-width="3"/>
     <path d="M52 82H130M188 142H296M130 88L210 88M210 88L258 40" stroke="#34B8FF" stroke-width="3"/>
