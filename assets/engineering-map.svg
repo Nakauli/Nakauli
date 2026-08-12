@@ -27,5 +27,9 @@
     <text x="378" y="168" fill="#F5F7FA" font-size="28" font-weight="800">APIs</text>
     <text x="378" y="198" fill="#A8D4E6" font-size="17">back-end foundations</text>
     <text x="378" y="232" fill="#34B8FF" font-size="15" font-family="Consolas, monospace">auth + routes + data</text>
+    <rect x="626" y="125" width="230" height="150" rx="18" fill="#0A1A26" stroke="#25657A"/>
+    <text x="654" y="168" fill="#F5F7FA" font-size="28" font-weight="800">Data</text>
+    <text x="654" y="198" fill="#A8D4E6" font-size="17">SQL and persistence</text>
+    <text x="654" y="232" fill="#25E0C5" font-size="15" font-family="Consolas, monospace">queries + schemas</text>
   </g>
 </svg>
