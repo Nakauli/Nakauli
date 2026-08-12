@@ -2,6 +2,13 @@
   <title id="title">Activity loop visualization</title>
   <desc id="desc">A compact animated contribution-style loop showing steady practice, review, and shipping.</desc>
   <defs>
+    <style>
+      .spark { animation: spark 3.6s ease-in-out infinite; }
+      .spark:nth-child(2) { animation-delay: .4s; }
+      .spark:nth-child(3) { animation-delay: .8s; }
+      .spark:nth-child(4) { animation-delay: 1.2s; }
+      @keyframes spark { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    </style>
     <linearGradient id="loopBg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#071019"/>
       <stop offset="1" stop-color="#0B1722"/>
@@ -19,5 +26,11 @@
     <rect x="144" width="16" height="16" rx="4"/><rect x="168" width="16" height="16" rx="4"/><rect x="192" width="16" height="16" rx="4"/><rect x="216" width="16" height="16" rx="4"/><rect x="240" width="16" height="16" rx="4"/><rect x="264" width="16" height="16" rx="4"/>
     <rect x="288" width="16" height="16" rx="4"/><rect x="312" width="16" height="16" rx="4"/><rect x="336" width="16" height="16" rx="4"/><rect x="360" width="16" height="16" rx="4"/><rect x="384" width="16" height="16" rx="4"/><rect x="408" width="16" height="16" rx="4"/>
     <rect x="432" width="16" height="16" rx="4"/><rect x="456" width="16" height="16" rx="4"/><rect x="480" width="16" height="16" rx="4"/><rect x="504" width="16" height="16" rx="4"/><rect x="528" width="16" height="16" rx="4"/><rect x="552" width="16" height="16" rx="4"/>
+  </g>
+  <g transform="translate(58 134)">
+    <rect class="spark" x="48" width="16" height="16" rx="4" fill="#25E0C5"/>
+    <rect class="spark" x="216" width="16" height="16" rx="4" fill="#34B8FF"/>
+    <rect class="spark" x="384" width="16" height="16" rx="4" fill="#F5A524"/>
+    <rect class="spark" x="504" width="16" height="16" rx="4" fill="#25E0C5"/>
   </g>
 </svg>
