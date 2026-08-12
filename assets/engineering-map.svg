@@ -2,6 +2,15 @@
   <title id="title">Engineering map for Aljun Cursiga</title>
   <desc id="desc">A dark dashboard-style map showing Aljun's path from Java practice to APIs, data, machine learning, and useful software.</desc>
   <defs>
+    <style>
+      .packet { animation: travel 4.8s ease-in-out infinite; }
+      @keyframes travel {
+        0% { transform: translateX(0); opacity: .25; }
+        12% { opacity: 1; }
+        88% { opacity: 1; }
+        100% { transform: translateX(880px); opacity: .25; }
+      }
+    </style>
     <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07131E"/>
       <stop offset="0.55" stop-color="#082532"/>
@@ -41,6 +50,7 @@
     <text x="930" y="232" fill="#F5A524" font-size="15" font-family="Consolas, monospace">classify + evaluate</text>
   </g>
   <path d="M160 322H1040" stroke="url(#track)" stroke-width="8" stroke-linecap="round"/>
+  <circle class="packet" cx="160" cy="322" r="8" fill="#F5F7FA"/>
   <g filter="url(#softDots)">
     <circle cx="160" cy="322" r="12" fill="#25E0C5"/>
     <circle cx="460" cy="322" r="12" fill="#34B8FF"/>
