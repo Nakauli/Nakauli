@@ -38,4 +38,15 @@
   <text x="90" y="198" fill="#B7D7E8" font-family="Consolas, monospace" font-size="20" font-weight="600">
     software engineering | java | apis | machine learning
   </text>
+  <g transform="translate(830 72)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 28V88L188 142V218" stroke="#F5A524" stroke-width="3"/>
+    <path d="M52 82H130M188 142H296M130 88L210 88M210 88L258 40" stroke="#34B8FF" stroke-width="3"/>
+    <path d="M130 88L78 150H26M188 142L122 212" stroke="#25E0C5" stroke-width="3"/>
+    <circle cx="130" cy="28" r="8" fill="#F5A524"/>
+    <circle cx="52" cy="82" r="8" fill="#34B8FF"/>
+    <circle cx="296" cy="142" r="8" fill="#34B8FF"/>
+    <circle cx="26" cy="150" r="8" fill="#25E0C5"/>
+    <circle cx="122" cy="212" r="8" fill="#25E0C5"/>
+    <circle cx="258" cy="40" r="8" fill="#F5A524"/>
+  </g>
 </svg>
