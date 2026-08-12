@@ -100,3 +100,41 @@ I also build with web, mobile, database, and machine learning tools. The common 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=111111)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+## GitHub signal
+
+<div align="center">
+
+![Aljun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakauli&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakauli&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+![Activity loop](./assets/activity-loop.svg)
+
+## Engineering approach
+
+```text
+prototype with curiosity
+inspect the code
+test the behavior
+document decisions
+improve deliberately
+```
+
+I use AI-assisted tools to accelerate exploration and prototyping, but I still take responsibility for understanding the implementation, checking behavior, and explaining the tradeoffs before calling work done.
+
+## Credentials and leadership
+
+- IT Specialist - Databases, Certiport / Pearson VUE
+- National Certificate II in Computer Systems Servicing, TESDA
+- Managing Editor and Head of IT Department, AURIUM Yearbook Publication
+- Public Information Officer, Computer Debuggers Society and DCE-DSG
+
+## Let's connect
+
+I am open to internships, junior software engineering opportunities, collaboration, and projects where I can keep growing through real implementation work.
+
+Portfolio: [aljun-cursiga-portfolio.vercel.app](https://aljun-cursiga-portfolio.vercel.app)  
+LinkedIn: [linkedin.com/in/aljun-cursiga-275b40280](https://linkedin.com/in/aljun-cursiga-275b40280)  
+Email: [aljuncursiga09351522067@gmail.com](mailto:aljuncursiga09351522067@gmail.com)
