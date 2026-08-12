@@ -57,4 +57,10 @@
     <circle cx="740" cy="322" r="12" fill="#25E0C5"/>
     <circle cx="1040" cy="322" r="12" fill="#F5A524"/>
   </g>
+  <g font-family="Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.2">
+    <text x="122" y="362" fill="#7EEAD9">PRACTICE</text>
+    <text x="414" y="362" fill="#91D6FF">BUILD</text>
+    <text x="700" y="362" fill="#7EEAD9">VERIFY</text>
+    <text x="988" y="362" fill="#FFD58A">SHIP</text>
+  </g>
 </svg>
