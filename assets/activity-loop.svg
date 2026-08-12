@@ -1,0 +1,17 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Activity loop visualization</title>
+  <desc id="desc">A compact animated contribution-style loop showing steady practice, review, and shipping.</desc>
+  <defs>
+    <linearGradient id="loopBg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071019"/>
+      <stop offset="1" stop-color="#0B1722"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="url(#loopBg)"/>
+  <text x="56" y="62" fill="#25E0C5" font-family="Consolas, monospace" font-size="17" font-weight="700" letter-spacing="2">
+    ACTIVITY LOOP
+  </text>
+  <text x="56" y="94" fill="#DCEFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+    practice daily, review honestly, ship small improvements
+  </text>
+</svg>
