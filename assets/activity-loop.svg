@@ -14,4 +14,10 @@
   <text x="56" y="94" fill="#DCEFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
     practice daily, review honestly, ship small improvements
   </text>
+  <g transform="translate(58 134)" fill="#152230">
+    <rect width="16" height="16" rx="4"/><rect x="24" width="16" height="16" rx="4"/><rect x="48" width="16" height="16" rx="4"/><rect x="72" width="16" height="16" rx="4"/><rect x="96" width="16" height="16" rx="4"/><rect x="120" width="16" height="16" rx="4"/>
+    <rect x="144" width="16" height="16" rx="4"/><rect x="168" width="16" height="16" rx="4"/><rect x="192" width="16" height="16" rx="4"/><rect x="216" width="16" height="16" rx="4"/><rect x="240" width="16" height="16" rx="4"/><rect x="264" width="16" height="16" rx="4"/>
+    <rect x="288" width="16" height="16" rx="4"/><rect x="312" width="16" height="16" rx="4"/><rect x="336" width="16" height="16" rx="4"/><rect x="360" width="16" height="16" rx="4"/><rect x="384" width="16" height="16" rx="4"/><rect x="408" width="16" height="16" rx="4"/>
+    <rect x="432" width="16" height="16" rx="4"/><rect x="456" width="16" height="16" rx="4"/><rect x="480" width="16" height="16" rx="4"/><rect x="504" width="16" height="16" rx="4"/><rect x="528" width="16" height="16" rx="4"/><rect x="552" width="16" height="16" rx="4"/>
+  </g>
 </svg>
