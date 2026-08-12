@@ -45,3 +45,4 @@ I also build with web, mobile, database, and machine learning tools. The common 
 | **Database Monster Cert Prep** | Next.js, TypeScript, Python, Flask, SQL | Full practice system with public site, CLI, dashboard, scoring flow, and SQL review content. |
 | **SpamGuard** | Python, Flask, scikit-learn, Naive Bayes | Text preprocessing, model training, evaluation, and a Flask interface for SMS/forum spam detection. |
 | **Skin Cancer Detector** | Python, TensorFlow, Keras, CNN | Image classification workflow with preprocessing, augmentation, and accuracy/validation evaluation. |
+| **Hospital Epidemic Surge Simulator** | Python, SimPy, Tkinter, Matplotlib, NumPy | Discrete-event simulation for patient arrivals, triage, bed allocation, staff use, outcomes, and visualization. |
