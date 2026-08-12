@@ -53,6 +53,9 @@
     <rect x="254" width="148" height="30" rx="8" fill="#241D10" stroke="#F5A524" opacity="0.96"/>
     <text x="273" y="20" fill="#FFE9B8">ML PROJECTS</text>
   </g>
+  <text x="86" y="306" fill="#7FB4C5" font-family="Consolas, monospace" font-size="14">
+    build practical systems - learn deliberately - document the tradeoffs
+  </text>
   <g transform="translate(830 72)" stroke-linecap="round" stroke-linejoin="round">
     <path d="M130 28V88L188 142V218" stroke="#F5A524" stroke-width="3"/>
     <path d="M52 82H130M188 142H296M130 88L210 88M210 88L258 40" stroke="#34B8FF" stroke-width="3"/>
