@@ -37,3 +37,9 @@ I also build with web, mobile, database, and machine learning tools. The common 
 [![Codewars badge](https://www.codewars.com/users/aljun/badges/large)](https://www.codewars.com/users/aljun)
 
 </div>
+
+## Selected work
+
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| **Database Monster Cert Prep** | Next.js, TypeScript, Python, Flask, SQL | Full practice system with public site, CLI, dashboard, scoring flow, and SQL review content. |
