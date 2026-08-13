@@ -105,8 +105,12 @@ I also build with web, mobile, database, and machine learning tools. The common 
 
 <div align="center">
 
-![Aljun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakauli&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakauli&layout=compact&theme=github_dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=Nakauli&theme=github-dark-blue&hide_border=true)
+
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakauli&theme=github_dark)
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nakauli&theme=github_dark)
+![Repository languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nakauli&theme=github_dark)
 
 </div>
 
