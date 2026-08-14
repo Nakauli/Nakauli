@@ -128,10 +128,16 @@ improve deliberately
 
 I use AI-assisted tools to accelerate exploration and prototyping, but I still take responsibility for understanding the implementation, checking behavior, and explaining the tradeoffs before calling work done.
 
-## Credentials and leadership
+## Credentials
 
-- IT Specialist - Databases, Certiport / Pearson VUE
-- National Certificate II in Computer Systems Servicing, TESDA
+| Credential | Issuer | Issued / valid until | Proof | Skills signal |
+| --- | --- | --- | --- | --- |
+| **Hackathon Challenge 2026** | Department of Trade and Industry | Issued Jul 2026 | [View credential](https://drive.google.com/file/d/15JUgYjzJuoOwOSZCq3P2XGz602P02bBU/view) | Programming, AI, technical communication, software development, leadership, product development |
+| **NC II - Computer Systems Servicing** | TESDA | Issued Jan 2024 / Expires Dec 2028 | [View credential](https://drive.google.com/file/d/1Ch2bbuMqev1ufbxKLkNvr7C3H_7FUcqk/view) | Hardware setup, networking, server configuration, system maintenance, operating systems |
+| **IT Specialist - Databases** | Pearson / Certiport | Issued Jul 2026 / Expires Jul 2031 | [Verify credential](https://www.credly.com/badges/9679c17b-2f6c-4ce0-b72d-179afcf8d6ce/linked_in_profile) | Database administration, database design, data manipulation, data storage, querying |
+
+## Leadership
+
 - Managing Editor and Head of IT Department, AURIUM Yearbook Publication
 - Public Information Officer, Computer Debuggers Society and DCE-DSG
 
