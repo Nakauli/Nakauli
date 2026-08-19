@@ -1,36 +1,41 @@
-<div align="center">
+# Hi, I'm Aljun Cursiga
 
-![Aljun Cursiga banner](./assets/aljun-banner.svg)
+I'm a Computer Science student from the Philippines. Right now, I am focused on becoming a software engineer, with most of my practice going into Java, back-end fundamentals, APIs, databases, and problem solving.
 
-# Aljun Cursiga
+I also enjoy building machine learning projects, especially when they solve practical problems. My goal is to keep improving by building real projects, reading code more carefully, and learning from every mistake I run into.
 
-**Computer Science student building toward software engineering**
+[Portfolio](https://aljun-cursiga-portfolio.vercel.app) | [LinkedIn](https://linkedin.com/in/aljun-cursiga-275b40280) | [Email](mailto:aljuncursiga09351522067@gmail.com) | [Codewars](https://www.codewars.com/users/aljun)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://aljun-cursiga-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aljun-cursiga-275b40280)
-[![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aljuncursiga09351522067@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/aljun)
+## What I'm Working On
 
-</div>
+- Practicing Java regularly, especially OOP, logic, and data structures.
+- Learning more about back-end development, REST APIs, authentication, sessions, JWT, and protected routes.
+- Improving my database skills with SQL, MySQL/MariaDB, PostgreSQL basics, and Supabase basics.
+- Building web and mobile projects when I want to turn an idea into something usable.
+- Continuing to explore machine learning through classification, preprocessing, and model evaluation.
 
-## About me
+## Projects
 
-I am a Computer Science student from the Philippines focused on becoming a software engineer. My strongest routine right now is practicing Java every day while strengthening the fundamentals behind clean program structure, back-end logic, REST APIs, authentication flow, data handling, and practical debugging.
+| Project | Tech | Notes |
+| --- | --- | --- |
+| **Database Monster Cert Prep** | Next.js, TypeScript, Python, Flask, SQL | A database certification practice project with a public site, CLI, dashboard, scoring flow, and SQL review content. |
+| **SpamGuard** | Python, Flask, scikit-learn, Naive Bayes | A spam detector for SMS and forum messages using text preprocessing and model evaluation. |
+| **Skin Cancer Detector** | Python, TensorFlow, Keras, CNN | A deep learning project for image classification using preprocessing, augmentation, and validation checks. |
+| **Hospital Epidemic Surge Simulator** | Python, SimPy, Tkinter, Matplotlib, NumPy | A simulation project for patient arrivals, triage, bed allocation, staff use, outcomes, and visualization. |
+| **BuhayLink** | Flutter, Dart, Firebase, Provider | A mobile app workflow for accounts, job posts, browsing, and applications. |
+| **Hontoria Printing Website** | PHP, JavaScript, SQL | A business website with responsive pages, forms, database interaction, and basic CSRF protection. |
+| **COPS Interpol Website** | React, Vite, TypeScript | A responsive organization website with reusable components and mock API/data flows. |
 
-I also build with web, mobile, database, and machine learning tools. The common thread is simple: I like turning real workflows into software that people can actually use, then improving the implementation until the behavior is understandable and reliable.
+## Tech I Use
 
-![Engineering map](./assets/engineering-map.svg)
+**Languages:** Java, Python, TypeScript, JavaScript, PHP, Dart  
+**Web:** React, Next.js, Vite, Tailwind CSS, HTML, CSS  
+**Back end:** Flask, Node.js basics, REST APIs, JWT basics, form handling, validation  
+**Databases:** SQL, MySQL/MariaDB, PostgreSQL basics, Supabase basics, Firebase  
+**Machine learning:** scikit-learn, TensorFlow, Keras, NumPy, Matplotlib  
+**Tools:** Git, GitHub, VS Code, Figma, Photoshop, Illustrator
 
-## Current direction
-
-| Track | What I am sharpening |
-| --- | --- |
-| Java fundamentals | OOP, data structures, algorithms, problem solving, clean console and app logic |
-| Back-end foundations | REST API concepts, validation, cookies, sessions, JWT basics, protected routes |
-| Data layer | SQL, MySQL/MariaDB, PostgreSQL basics, Supabase basics, queries and schemas |
-| Applied ML | Preprocessing, classification, model evaluation, and practical ML prototypes |
-
-## Practice signal
+## Practice
 
 <div align="center">
 
@@ -38,70 +43,7 @@ I also build with web, mobile, database, and machine learning tools. The common 
 
 </div>
 
-## Selected work
-
-| Project | Stack | What it shows |
-| --- | --- | --- |
-| **Database Monster Cert Prep** | Next.js, TypeScript, Python, Flask, SQL | Full practice system with public site, CLI, dashboard, scoring flow, and SQL review content. |
-| **SpamGuard** | Python, Flask, scikit-learn, Naive Bayes | Text preprocessing, model training, evaluation, and a Flask interface for SMS/forum spam detection. |
-| **Skin Cancer Detector** | Python, TensorFlow, Keras, CNN | Image classification workflow with preprocessing, augmentation, and accuracy/validation evaluation. |
-| **Hospital Epidemic Surge Simulator** | Python, SimPy, Tkinter, Matplotlib, NumPy | Discrete-event simulation for patient arrivals, triage, bed allocation, staff use, outcomes, and visualization. |
-| **BuhayLink** | Flutter, Dart, Firebase, Provider | Mobile app flows for account creation, job posting, browsing, and applications. |
-| **Hontoria Printing Website** | PHP, JavaScript, SQL, MVC-style structure | Business pages with responsive layout, form handling, database interaction, and CSRF protection basics. |
-| **COPS Interpol Website** | React, Vite, TypeScript, Mock API | Responsive organization site with reusable UI components, structured sections, and mock API/data flows. |
-
-## Toolbox
-
-**Core languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Back-end and API foundations**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Web and mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Databases and data**
-
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
-
-**Machine learning and analysis**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-**Workflow and design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=111111)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-
-## GitHub signal
+## GitHub Stats
 
 <div align="center">
 
@@ -114,36 +56,22 @@ I also build with web, mobile, database, and machine learning tools. The common 
 
 </div>
 
-![Activity loop](./assets/activity-loop.svg)
-
-## Engineering approach
-
-```text
-prototype with curiosity
-inspect the code
-test the behavior
-document decisions
-improve deliberately
-```
-
-I use AI-assisted tools to accelerate exploration and prototyping, but I still take responsibility for understanding the implementation, checking behavior, and explaining the tradeoffs before calling work done.
-
 ## Credentials
 
-| Credential | Issuer | Issued / valid until | Proof | Skills signal |
-| --- | --- | --- | --- | --- |
-| **Hackathon Challenge 2026** | Department of Trade and Industry | Issued Jul 2026 | [View credential](https://drive.google.com/file/d/15JUgYjzJuoOwOSZCq3P2XGz602P02bBU/view) | Programming, AI, technical communication, software development, leadership, product development |
-| **NC II - Computer Systems Servicing** | TESDA | Issued Jan 2024 / Expires Dec 2028 | [View credential](https://drive.google.com/file/d/1Ch2bbuMqev1ufbxKLkNvr7C3H_7FUcqk/view) | Hardware setup, networking, server configuration, system maintenance, operating systems |
-| **IT Specialist - Databases** | Pearson / Certiport | Issued Jul 2026 / Expires Jul 2031 | [Verify credential](https://www.credly.com/badges/9679c17b-2f6c-4ce0-b72d-179afcf8d6ce/linked_in_profile) | Database administration, database design, data manipulation, data storage, querying |
+| Credential | Issuer | Date | Proof |
+| --- | --- | --- | --- |
+| **Hackathon Challenge 2026** | Department of Trade and Industry | Issued Jul 2026 | [View credential](https://drive.google.com/file/d/15JUgYjzJuoOwOSZCq3P2XGz602P02bBU/view) |
+| **NC II - Computer Systems Servicing** | TESDA | Issued Jan 2024, expires Dec 2028 | [View credential](https://drive.google.com/file/d/1Ch2bbuMqev1ufbxKLkNvr7C3H_7FUcqk/view) |
+| **IT Specialist - Databases** | Pearson / Certiport | Issued Jul 2026, expires Jul 2031 | [Verify credential](https://www.credly.com/badges/9679c17b-2f6c-4ce0-b72d-179afcf8d6ce/linked_in_profile) |
 
-## Leadership
+## Campus Work
 
 - Managing Editor and Head of IT Department, AURIUM Yearbook Publication
 - Public Information Officer, Computer Debuggers Society and DCE-DSG
 
-## Let's connect
+## Contact
 
-I am open to internships, junior software engineering opportunities, collaboration, and projects where I can keep growing through real implementation work.
+I'm open to internships, junior developer opportunities, collaborations, and projects where I can learn by building.
 
 Portfolio: [aljun-cursiga-portfolio.vercel.app](https://aljun-cursiga-portfolio.vercel.app)  
 LinkedIn: [linkedin.com/in/aljun-cursiga-275b40280](https://linkedin.com/in/aljun-cursiga-275b40280)  
